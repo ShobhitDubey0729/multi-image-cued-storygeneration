@@ -7,7 +7,7 @@ Python 3.6 or 2.7<br>
 ### Prerequisites
 ##### 1. Clone the repository
 ```
-git clone https://github.com/gprakhar579/VisualStorytelling.git
+git clone https://github.com/ShobhitDubey0729/multi-image-cued-storytelling.git
 ```
 ##### 2. Download requirements
 ```
